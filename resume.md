@@ -18,7 +18,7 @@ Seeking a position to apply my geophysical skills and knowledge and knowledge.
 - Intramural and Club Sports Supervisor 
 
 ## Resume Headshot!
-![Resume Pic](/Users/chandlerbergstrom/Downloads/IMG_3096.jpg)
+![Resume Pic](https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fmines.sidearmsports.com%2fimages%2f2024%2f11%2f12%2fchandler-bergstrom.JPG&type=webp)
 
 ### Contact Me
 [Email Me](mailto:chandler_bergstrom@mines.edu)
