@@ -1,7 +1,7 @@
 
 # Chandler Bergstrom's Resume
 
-##Contatct Information
+##Contact Information
 - **Name:** Chandler 
 - **Email:** chandler_bergstrom@mines.edu
 
