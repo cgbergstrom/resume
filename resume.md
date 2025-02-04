@@ -17,8 +17,8 @@ Seeking a position to apply my geophysical skills and knowledge and knowledge.
 - Hill Hall Front Office 
 - Intramural and Club Sports Supervisor 
 
-##Resume Headshot!
+## Resume Headshot!
 ![Resume Pic](/Users/chandlerbergstrom/Downloads/IMG_3096.jpg)
 
-###Contact Me
+### Contact Me
 [Email Me](mailto:chandler_bergstrom@mines.edu)
